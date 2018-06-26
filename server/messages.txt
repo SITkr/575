@@ -1,0 +1,62 @@
+zxz> hiii
+zxz> hello
+zxz> hi
+ppp> hiii
+ppp> hello
+ppp> hiii
+ppp> hello
+ppp> hi
+ggg> hi
+d> hi
+g> как дела
+g> hi
+k> как дела
+k> hi
+k> hi
+l> hi
+kkk> как дела
+sss> hi
+в> hi
+в> hi
+в> ,
+в> привет
+sss> привет
+sss> Привет
+sss> привет
+sss> как дела
+a> hi
+Вася> как дела
+Вася> как дела
+Вася> как дела
+Вася> hi
+Вася> hi
+Вася> привет
+Вася> Привет
+alex> Hi
+alex> hi
+Alex> Hi
+Alex> bye
+Alex> hi
+Вася> скажи что нибудь
+ale> привет
+ale> Hi
+alex> Hi
+a> 5
+a> 4
+a> 3
+a> 2
+a> 1
+﻿
+
+
+
+
+
+
+
+
+
+
+
+
+
