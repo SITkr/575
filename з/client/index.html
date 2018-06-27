@@ -1,0 +1,80 @@
+
+<html>
+    <head>
+        <title>chat </title>
+        <style>
+            html, body {
+                height: 100%;
+                margin: 0;
+            }
+            body {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-image: url("2fons.ru-82001.jpg");
+                
+            }
+            #field, #user, #chat {
+                width: 100%;
+                box-sizing: border-box;
+                background-color:pink;
+            }
+            #chat {
+                height: 20em;
+                background-color:orangered;
+            }
+           .container{
+               background-color: red;
+               margin: 15px;
+               padding: 15px;
+               
+           }
+
+        .outer{
+           background-color: blue;
+            margin: 15px;
+            padding: 15px;
+            border-radius: 10px;
+           
+            
+        }
+
+        .inner{
+            background-color: darkviolet;
+            margin: 15px;
+            padding: 15px;
+        }
+        h1{
+            color: rgb(72, 250, 27);
+            margin-left: 135px;
+        }
+
+        
+          
+
+        </style>
+    </head>
+    
+    <body>
+            
+       
+            <div class="outer">
+            <div class="container">
+           
+        
+       <div class="inner">
+        <h1>Чат бот:"Fedya"</h1>
+        <div>
+            <input type="text" id ="user">
+            <input type="text" id ="field">
+            <textarea id="chat"></textarea>
+           
+        </div>
+
+    </div>
+    </div>
+    </div>
+
+        <script src="script.js"></script>
+    </body>
+</html>
